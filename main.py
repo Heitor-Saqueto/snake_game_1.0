@@ -23,22 +23,4 @@ while game_is_on:
     time.sleep(0.1)
     snake.move()
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 screen.exitonclick()
-
