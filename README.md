@@ -1,1 +1,1 @@
-![caption](snake_game/ GIF)
+![caption](/snake_game/ GIF)
