@@ -1,1 +1,2 @@
-![caption](/snake_game/ GIF)
+![caption](snake_game_1.0
+/snake_game.gif)
