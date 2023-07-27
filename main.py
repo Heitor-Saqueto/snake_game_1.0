@@ -42,4 +42,6 @@ while game_is_on:
             score.game_over()
     #if head collides with any segment in the tail :
         #trigger game_over
+
+# mudou
 screen.exitonclick()
